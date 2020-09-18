@@ -4,7 +4,7 @@ This repo contains a csv to sqlite parser in java for a specific database schema
 
 The executable ms3.jar takes an absolute filepath to the csv file. The ms3.jar uses OpenJDK 11.0.8.10. An example usage exists below. 
 
-C:\Users\Mark\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin>java -jar ms3.jar C:\Users\Mark\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin\ms3Interview.csv
+"C:\Users\Mark\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin>java -jar ms3.jar C:\Users\Mark\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin\ms3Interview.csv"
 
 Included are the library jars so you can build for your own targets.
 

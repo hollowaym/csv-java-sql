@@ -102,7 +102,6 @@ public class App {
             sqliteConnection.close();
         } catch (SQLException e) {
             // TODO Auto-generated catch block
-            System.out.println(e.getErrorCode());
             doPanic(newFileName, logFile, outFile, inputFile);
             e.printStackTrace();
         }
